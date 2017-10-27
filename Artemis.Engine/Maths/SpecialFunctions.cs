@@ -1777,7 +1777,7 @@ namespace Artemis.Engine.Maths
         /// <returns></returns>
         public static double CosSqrd(double x)
         {
-            return Math.Pow(Math.Sin(x), 2.0);
+            return Math.Pow(Math.Cos(x), 2.0);
         }
 
         /// <summary>
