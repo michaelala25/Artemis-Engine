@@ -1,7 +1,5 @@
-##### Artemis Engine
+Back when I was a young lad, brimming with zeal and insecurity, in order to separate myself from the common programmers who were tasked with building a video game for their final project, I decided I would build a *game engine*. Then I thought "with this awesome game engine, I'll make even more awesome games than my peers!" I wasn't going to just make a snake-clone like my teacher suggested we make, no, I was going to make stunning platformers with cutscenes and dynamic lighting engines and massive explorable worlds. Then maybe, just maybe, Dad would love me.
 
-Artemis is a modern cross-platform 2D game engine designed on top of Monogame/Xna.
+Alas, young people are idiots, myself included, and I wasn't prepared for the sheer scale of such an undertaking. I thought the only difference between me and the developers behind the Unreal Engine was how much redbull we consumed (and consequently, how much sleep we were willing to lose). Not too bright, was I? I sure did write a lot of code for my age, but the result was, at best, a partially finished "API" for interfacing with different parts of MonoGame more easily (and this "easily" is debatable).
 
-##### License
-
-MIT
+Nonetheless, I had fun and learned a lot about OOP, and I'm proud of this ambitious, albeit puerile, formative project. Feel free to poke around and explore what my sleep-deprived 17 year old brain could come up with.
