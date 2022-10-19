@@ -1,4 +1,5 @@
-﻿// AUTHORS: Miroslav Stampar & Michael Ala
+// AUTHOS: Miroslav Stampar
+// With minor modifications and additions from Michael Ala
 
 /*
 **************************************************************************
